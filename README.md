@@ -28,7 +28,7 @@
 5. OWASP Testing Guide 4 & OWASP Top 10  
 8. The Hacker Playbook (1,2,3)
 ### Awesome RoadMap & Resources & Talks & Channels & Twitter Accounts & Writeups & others:
-https://docs.google.com/presentation/d/1o7GWUOYwcd3uMwLBRG9UzARYCvfuX3VKUHfoPu38t78/edit#slide=id.gb090bffbbf_0_43
+- https://docs.google.com/presentation/d/1o7GWUOYwcd3uMwLBRG9UzARYCvfuX3VKUHfoPu38t78/edit#slide=id.gb090bffbbf_0_43
 
 ## Mobile :
 ### RoadMap & Resources Recommendtions
@@ -49,7 +49,7 @@ https://docs.google.com/presentation/d/1o7GWUOYwcd3uMwLBRG9UzARYCvfuX3VKUHfoPu38
 - [https://t.co/g4d5kfvBVW](https://t.co/g4d5kfvBVW "https://t.co/g4d5kfvBVW") 
 - [https://t.co/vftZLPJ6oz](https://t.co/vftZLPJ6oz "https://t.co/vftZLPJ6oz")  
 - [https://t.co/yahmgJwUSa](https://t.co/yahmgJwUSa "https://t.co/yahmgJwUSa")  
- - [https://t.co/3NcDdGE8xV](https://t.co/3NcDdGE8xV "https://t.co/3NcDdGE8xV")
+- [https://t.co/3NcDdGE8xV](https://t.co/3NcDdGE8xV "https://t.co/3NcDdGE8xV")
 
 ### Recommended Books :
 - The art of network exploitation by Royce
@@ -67,6 +67,7 @@ https://docs.google.com/presentation/d/1o7GWUOYwcd3uMwLBRG9UzARYCvfuX3VKUHfoPu38
 
 ## Recommended RoadMap
 - https://www.facebook.com/groups/371869175117889/posts/373658371605636/
+- https://twitter.com/zad606/status/1724050768527798529
 
 # Malware Analysis & Reverse :
 ## RoadMap & A lot of Resources :
