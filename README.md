@@ -1,5 +1,6 @@
 # CyberSec-Resources
-RECOMMENDED RESOURCES BY LOGAN0X
+- RECOMMENDED RESOURCES BY LOGAN0X
+- The repo focuses mainly on the underrated resources or resources that are not that famous by the community.
 
 # OS
 ## Linux :
