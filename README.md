@@ -4,6 +4,8 @@
 
 # OS
 ## Linux :
+- Highly Recommend :
+  - https://linux-kernel-labs.github.io/refs/heads/master/
 - http://linux-training.be/
 - https://linuxjourney.com/
 - https://0xsp.com/offensive/privilege-escalation-cheatsheet/
