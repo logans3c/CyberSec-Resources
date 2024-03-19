@@ -4,7 +4,7 @@
 
 # OS
 ## Linux :
-- Highly Recommend :
+- Highly Recommended :
   - https://linux-kernel-labs.github.io/refs/heads/master/
 - http://linux-training.be/
 - https://linuxjourney.com/
